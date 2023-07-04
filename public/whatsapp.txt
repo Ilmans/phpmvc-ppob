@@ -1,0 +1,4161 @@
+[2021-02-16 19:06:27]
+null
+
+[2021-02-16 19:10:30]
+null
+
+[2021-02-16 19:19:20]
+null
+
+[2021-02-16 19:29:25]
+null
+
+[2021-02-16 19:54:40]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"Hai"},"type":"chat"}
+
+[2021-02-16 19:54:42]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 19:54:43]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-02-16 19:55:42]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 19:55:43]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:03:43]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":"Ok"},"type":"chat"}
+
+[2021-02-16 20:03:48]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":"Sudah"},"type":"chat"}
+
+[2021-02-16 20:03:50]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 20:03:51]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:03:55]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 20:03:57]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:04:07]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 20:04:08]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:04:16]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"Chatnya pake akun wa lain"},"type":"chat"}
+
+[2021-02-16 20:05:12]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 20:05:15]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:05:37]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 20:05:38]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:15:05]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 20:15:06]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:16:30]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 20:16:32]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:22:17]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:22:31]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:24:21]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:27:59]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:33:46]
+{"fromMe":true,"data":{"from":"6285214913624@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:38:54]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"Info"},"type":"chat"}
+
+[2021-02-16 20:39:00]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 20:39:01]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:46:42]
+{"fromMe":true,"data":{"from":"6285214913624@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:50:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:52:23]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:53:51]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:53:54]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:56:23]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 20:56:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:01:58]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:04:41]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:05:12]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Prmisi admin"},"type":"chat"}
+
+[2021-02-16 21:05:13]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan ketik #HaloBCA untuk dapat terhubung dengan layanan Halo BCA Chat via WhatsApp."},"type":"chat"}
+
+[2021-02-16 21:05:26]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"#HaloBca"},"type":"chat"}
+
+[2021-02-16 21:05:28]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Terima kasih Anda telah menggunakan layanan Halo BCA Chat via WhatsApp.\nSyarat dan Ketentuan Halo BCA Chat dapat diakses pada tautan berikut ini http:\/\/bit.ly\/haloBCA\nSaat ini Anda sedang dalam antrian. Mohon tunggu beberapa saat."},"type":"chat"}
+
+[2021-02-16 21:05:45]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Anda telah terhubung dengan Agni"},"type":"chat"}
+
+[2021-02-16 21:06:06]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Selamat malam.\nSaya Agni, akan memberikan informasi yang Bapak Ilman butuhkan.\nInformasi apa yang bisa saya bantu?"},"type":"chat"}
+
+[2021-02-16 21:06:13]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:06:29]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 21:06:31]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:07:00]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Prmisi admin, akun mobile bca saya ke klik verifikasi ulang, saya sudah menggunakan Kartu yang sesuai saat daftar, tetapi tidak bisa masuk Mobile bca , harus verifikasi ulang dan memasukan Nomor Kartu Bca nya\n\nSedangkan saya daftar online saat itu dan belum mengambil kartu bca saya, apakah ada cara untuk mengetahui nmor kartu?"},"type":"chat"}
+
+[2021-02-16 21:07:36]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Baik Bapak Ilman, dengan senang hati saya informasikan."},"type":"chat"}
+
+[2021-02-16 21:08:04]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Ada Pak Ilman, untuk pengecekan nomor Kartu ATM dapat dilihat di email notifikasi pada saat Bapak Ilman berhasil melakukan proses pembukaan rekening online atau dapat melalui fasilitas KlikBCA pada menu \u201cAdministrasi\u201d, selanjutnya pilih \u201cBlokir kartu ATM\u201d ikuti langkah selanjutnya namun hanya sampai nomor kartu ATM muncul saja setelah itu pilih \u201ccancel\u201d atau \u201cbatal\u201d."},"type":"chat"}
+
+[2021-02-16 21:08:10]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Untuk pengiriman SMS verifikasi menggunakan nomor handphone yang terdaftar dan ada pulsa minimal Rp1.000,-."},"type":"chat"}
+
+[2021-02-16 21:08:30]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:09:26]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Baik min saya cari, kalau boleh tahu subject emailnya sprti apa ya"},"type":"chat"}
+
+[2021-02-16 21:10:17]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Setelah berhasil melakukan proses pembukaan rekening, Bapak Ilman akan menerima notifikasi pada aplikasi BCA mobile dan email dengan pengirim adminBCA@klikbca.com\u200b pada email tersebut, Bapak akan menerima informasi data pembukaan rekening seperti nomor rekening yang baru dibuka, nomor kartu, dan ilustrasi kartu yang dipilih."},"type":"chat"}
+
+[2021-02-16 21:10:30]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:11:32]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:11:39]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Atau harus ke bank bca ya min?"},"type":"chat"}
+
+[2021-02-16 21:11:55]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Subjek email kemungkinan Pembukaan Rekening Berhasil."},"type":"chat"}
+
+[2021-02-16 21:12:22]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Email ini silakan dapat dibuka Pak."},"type":"chat"}
+
+[2021-02-16 21:12:25]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 21:12:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:12:31]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Tidak harus ke cabang."},"type":"chat"}
+
+[2021-02-16 21:12:41]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 21:12:53]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:13:30]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"STATUS.IDORDER"},"type":"chat"}
+
+[2021-02-16 21:13:33]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:14:00]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:16:16]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Pembukaan rekening melalui BCA mobile sudah otomatis terdaftar registrasi KlikBCA non-finansial Pak."},"type":"chat"}
+
+[2021-02-16 21:16:46]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan Bapak Ilman dapat hubungi Halo BCA 1500888 untuk cek user ID dan PIN KlikBCA akan mengikuti PIN m-BCA yang dibuat pertama kali."},"type":"chat"}
+
+[2021-02-16 21:17:10]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Selain itu ga ada cara online ya mbak? Harus ke cabang?"},"type":"chat"}
+
+[2021-02-16 21:17:18]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Sebelumnya klikbca saya sudah di blokir"},"type":"chat"}
+
+[2021-02-16 21:18:57]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"User ID dan PIN KlikBCA akan terblokir jika: \n-\tSalah input PIN sebanyak 3 kali berturut - turut pada saat login \n-\tSalah memasukkan angka respon APPLI KeyBCA sebanyak 3 kali berturut-turut pada saat melakukan transaksi  \n \nApabila User ID KlikBCA Individu terblokir dan saat ini berada di Indonesia, Bapak Ilman silakan menghubungi Halo BCA 1500888 untuk proses reset dan kemudian melakukan registrasi ulang KlikBCA Individu di mesin ATM BCA terdekat.\nCara registrasi ulang KlikBCA di mesin ATM BCA: \n-\tMasukkan Kartu ATM BCA \n-\tMasukkan PIN ATM - Hasil - Tampil layar Fast Cash \n-\tPilih \"Daftar E-Banking\/Autodebet\" - Hasil - Tampil layar pilihan jenis registrasi \n-\tPilih \"Internet Banking\" \u2013 Hasil - Tampil layar klausula Internet Banking BCA \n-\tPilih \"Ya\" untuk melanjutkan transaksi \u2013 Hasil - Tampil layar input PIN KlikBCA Individu \n-\tInput PIN KlikBCA Individu (6 digit angka) \n-\tInput PIN KlikBCA Individu sekali lagi untuk konfirmasi - Hasil - Tampil layar konfirmasi user ID dan tercetak struk bukti transaksi registrasi \n-\tTransaksi selesai \n \nSebagai informasi, setelah Bapak Ilman menghubungi Halo BCA 1500888 dan berhasil melakukan registrasi KlikBCA melalui mesin ATM BCA, maka Bapak Ilman dapat langsung menggunakannya kembali. \nSebagai informasi, untuk menghindari terblokirnya User ID KlikBCA Individu karena kesalahan memasukkan respon KeyBCA, kami sarankan Bapak Ilman dapat lakukan log out terlebih dahulu jika telah terjadi kesalahan input respon KeyBCA, untuk menghindari terakumulasinya kesalahan."},"type":"chat"}
+
+[2021-02-16 21:19:40]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Yasudah jika gabisa min mkasih"},"type":"chat"}
+
+[2021-02-16 21:19:47]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Udaj dibilang belum ambil kartu\ud83d\ude02"},"type":"chat"}
+
+[2021-02-16 21:19:57]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Terimakasih min\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-16 21:20:47]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Jika belum cetak fisik kartu ATM maka Bapak Ilman dapat cetak fisik kartu ATM di cabang dengan membawa e-KTP."},"type":"chat"}
+
+[2021-02-16 21:21:20]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Selain pengecekan nomor Kartu ATM dapat dilihat di email notifikasi pada saat Bapak Ilman berhasil melakukan proses pembukaan rekening online atau dapat melalui fasilitas KlikBCA pada menu \u201cAdministrasi\u201d, selanjutnya pilih \u201cBlokir kartu ATM\u201d ikuti langkah selanjutnya namun hanya sampai nomor kartu ATM muncul saja setelah itu pilih \u201ccancel\u201d atau \u201cbatal\u201d."},"type":"chat"}
+
+[2021-02-16 21:21:44]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Bapak Ilman dapat cetak fisik kartu ATM di cabang dengan membawa e-KTP."},"type":"chat"}
+
+[2021-02-16 21:21:46]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:21:56]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Setelah corona"},"type":"chat"}
+
+[2021-02-16 21:22:00]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Terimakasih banyak ya min\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-16 21:22:37]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan Bapak Ilman dapat cetak fisik kartu ATM terlebih dahulu."},"type":"chat"}
+
+[2021-02-16 21:22:48]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Terima kasih kembali.\nAda lagi yang bisa saya bantu?"},"type":"chat"}
+
+[2021-02-16 21:25:07]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Bapak Ilman, saya akhiri chat ini.\nSemoga kendala tersebut tidak terulang kembali."},"type":"chat"}
+
+[2021-02-16 21:28:38]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 21:28:39]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:29:00]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"PULSA.085398432112.1000"},"type":"chat"}
+
+[2021-02-16 21:29:01]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:30:16]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Terima kasih telah menggunakan layanan WhatsApp Bank BCA. Selamat malam \ud83d\ude42"},"type":"chat"}
+
+[2021-02-16 21:30:17]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan berikan penilaian atas pelayanan kami melalui tautan berikut ini: https:\/\/halo.bca.co.id\/buzz-widget\/#\/rating\/jk6vaJ4FxRN4XFomQw0HxiNCuBvj4y6UVMAqK96Ua1g-"},"type":"chat"}
+
+[2021-02-16 21:31:35]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:40:01]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":"Cara invit orang ke yt premium gimana si, ko gabisa2 ya"},"type":"chat"}
+
+[2021-02-16 21:41:22]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:41:56]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:42:49]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":""},"type":"chat"}
+
+[2021-02-16 21:43:14]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":"Udah bisa"},"type":"chat"}
+
+[2021-02-16 21:43:16]
+{"fromMe":false,"data":{"from":"62813293240651604473883@c.us","body":"Thanks"},"type":"chat"}
+
+[2021-02-16 21:46:51]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 21:46:57]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:00:55]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:00:58]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:01:30]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 22:01:32]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:02:24]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:02:25]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:02:30]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Permisi mbak"},"type":"chat"}
+
+[2021-02-16 22:02:31]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan ketik #HaloBCA untuk dapat terhubung dengan layanan Halo BCA Chat via WhatsApp."},"type":"chat"}
+
+[2021-02-16 22:02:36]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"#halobca"},"type":"chat"}
+
+[2021-02-16 22:02:38]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Terima kasih Anda telah menggunakan layanan Halo BCA Chat via WhatsApp.\nSyarat dan Ketentuan Halo BCA Chat dapat diakses pada tautan berikut ini http:\/\/bit.ly\/haloBCA\nSaat ini Anda sedang dalam antrian. Mohon tunggu beberapa saat."},"type":"chat"}
+
+[2021-02-16 22:02:40]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Anda telah terhubung dengan Adel"},"type":"chat"}
+
+[2021-02-16 22:02:54]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Selamat malam.\nSaya Adel, akan memberikan informasi yang Bapak Ilman butuhkan.\nInformasi apa yang dapat saya bantu?"},"type":"chat"}
+
+[2021-02-16 22:03:08]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Mbak mau tanya ,apakah cs digital bca bisa digunakan untuk cetak kartu?"},"type":"chat"}
+
+[2021-02-16 22:03:27]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Dengan senang hati saya informasikan."},"type":"chat"}
+
+[2021-02-16 22:04:10]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Bisa Pak. Penggantian kartu yang dapat dilayani di CS Digital, yaitu :\n- Penggantian kartu rusak\/ hilang*\n- Penggantian kartu lupa PIN*\n- Penggantian kartu dengan jenis kartu yang sama ataupun berbeda\nCatatan*) Penggantian kartu hanya dapat dilakukan dengan jenis kartu yang sama. Transaksi penggantian kartu dapat dilakukan selama kartu tidak berada dalam status \"blokir\"."},"type":"chat"}
+
+[2021-02-16 22:04:37]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Mesin CS Digital 24 jam di area ATM dan MyBCA dengan lokasi sebagai berikut :\n1.\tmyBCA Kota Kasablanka\n2.\tArea ATM KCP Pondok Indah\n3.\tArea ATM KCU Veteran\u200b"},"type":"chat"}
+
+[2021-02-16 22:04:44]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:04:46]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Jika mencetak kartu yang sebelumnya daftar online bisa mbak?"},"type":"chat"}
+
+[2021-02-16 22:05:38]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Bisa Pak Ilman. Setelah rekening dibuka, nasabah akan mendapatkan nomor kartu Paspor. Untuk mendapatkan kartu Paspor dalam bentuk fisik, nasabah dapat mendatangi cabang terdekat atau bisa juga datang ke Layanan CS Digital\u200b."},"type":"chat"}
+
+[2021-02-16 22:05:45]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:05:51]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Berikut daftar lokasi 11 lokasi layanan digital yang dimaksud :\n1.  myBCA Summarecon Mall Serpong\n2.  BANDUNG (0008)\n3.  DAGO (7770)\n4.  VETERAN (0010)\n5.  myBCA Gandaria City\n6.  myBCA THAMRIN\n7.  EBC Grand Indonesia (Thamrin)\n8.  EBC Mal Kelapa Gading III\n9.  myBCA Central Park (Alam Sutera)\n10. myBCA Grand City (Surabaya)\n11. myBCA Ciputra World (Surabaya)"},"type":"chat"}
+
+[2021-02-16 22:06:02]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Penempatan dan waktu layanan CS Digital:\n1. Banking hall cabang dengan waktu layanan mengikuti waktu layanan cabang.\n2. Luar cabang dengan waktu layanan sampai dengan 24 jam"},"type":"chat"}
+
+[2021-02-16 22:06:20]
+{"fromMe":true,"data":{"from":"628111500998@c.us","body":"Dibogor apa ada yg 24jam?"},"type":"chat"}
+
+[2021-02-16 22:08:18]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Mohon maaf tidak ada Pak. Mesin CS Digital 24 jam di area ATM dan MyBCA dengan lokasi sebagai berikut :\n1.\tmyBCA Kota Kasablanka\n2.\tArea ATM KCP Pondok Indah\n3.\tArea ATM KCU Veteran\u200b"},"type":"chat"}
+
+[2021-02-16 22:09:00]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Apabila Bapak Ilman belum melakukan cetak kartu ATM-nya silakan dapat melakukan pencetakan kartu ATM dengan datang ke cabang terdekat membawa KTP-el. Akan dikenakan biaya pencetakan kartu ATM disesuaikan dengan jenis Kartu ATM-nya, yaitu: \n- \tSilver\/Blue   \t:Rp10.000,- \n- \tGold  \t \t:Rp15.000,- \n- \tPlatinum  \t:Rp20.000,- \n-       Xpresi             : Rp25.000,-"},"type":"chat"}
+
+[2021-02-16 22:11:27]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Saya masih menunggu respon jawaban chat Bapak.\nAda lagi yang dapat saya bantu?"},"type":"chat"}
+
+[2021-02-16 22:12:13]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 22:12:15]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:12:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:13:45]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:15:21]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Mohon maaf, karena tidak ada respon chat dari Bapak Ilman, saya akhiri chat ini.\nSemoga untuk pencetakan kartu ATM-nya dilancarkan."},"type":"chat"}
+
+[2021-02-16 22:18:26]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Terima kasih telah menggunakan layanan WhatsApp Bank BCA. Selamat malam \ud83d\ude42"},"type":"chat"}
+
+[2021-02-16 22:18:26]
+{"fromMe":false,"data":{"from":"628111500998@c.us","body":"Silakan berikan penilaian atas pelayanan kami melalui tautan berikut ini: https:\/\/halo.bca.co.id\/buzz-widget\/#\/rating\/X8CIj9faXqgjh5kDLOFrbsSyAnFkKNIiFNqEz2E3QWY-"},"type":"chat"}
+
+[2021-02-16 22:18:35]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 22:18:42]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:24:02]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"Keyword"},"type":"chat"}
+
+[2021-02-16 22:24:07]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-16 22:24:10]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:25:34]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"PESAN.TLKM1K.085398432112"},"type":"chat"}
+
+[2021-02-16 22:25:48]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:26:27]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"STATUS.4467423"},"type":"chat"}
+
+[2021-02-16 22:26:39]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:28:05]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:28:49]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:28:52]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:39:53]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:39:55]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:41:07]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:41:08]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:42:59]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:43:02]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:43:55]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:43:56]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:44:23]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFo"},"type":"chat"}
+
+[2021-02-16 22:44:26]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:44:28]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:45:14]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:45:16]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:46:28]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:46:30]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-16 22:51:33]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-16 22:51:35]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:10]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:10]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:10]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:16]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:18]
+{"fromMe":false,"data":{"from":"62813222077011552842712@c.us","body":"Ovo custom lancar mas?"},"type":"chat"}
+
+[2021-02-16 23:11:19]
+{"fromMe":false,"data":{"from":"6285711663658@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:20]
+{"fromMe":false,"data":{"from":"6285711663658@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:11:42]
+{"fromMe":false,"data":{"from":"62813222077011552842712@c.us","body":"Deposit baru bisa jam berapa sih nanya"},"type":"chat"}
+
+[2021-02-16 23:12:54]
+{"fromMe":false,"data":{"from":"62813222077011552842712@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:19:19]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:22:55]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-16 23:24:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 00:01:20]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 00:01:20]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:14]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:14]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:16]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:16]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:18]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:20]
+{"fromMe":false,"data":{"from":"62895095899771606310968@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:21]
+{"fromMe":false,"data":{"from":"62813222077011580741342@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:21]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:10:21]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 01:34:00]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 06:28:15]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-17 06:28:15]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 06:28:15]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 06:28:15]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 06:28:15]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-17 06:28:51]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 06:28:52]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 08:05:40]
+{"fromMe":false,"data":{"from":"6282193064441@c.us","body":"Bpk Junaidi Lampeang Yth saya dari bank Mega kartu kredit, mohon maaf kami mengingatkan hingga saat ini kami belum menerima pembayaran kartu kredit nya dgn no *4201 9200 8373 9050*\n\n- apabila bpk tidak segera melakukan pembayaran maka nanti proses penagihanya akan di alihkan kepada pihak ketiga. Oleh karena itu bpk harus segera membayarkan sebesar Rp. 210.000 bulan ini\n\nMksih\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-17 08:49:44]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 08:49:47]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 08:59:44]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 08:59:45]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 08:59:59]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:01:54]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:01:55]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:01:56]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:01:56]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:01:56]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:02:50]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 09:02:51]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:04:26]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:04:46]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:11:34]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 09:11:35]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:14:59]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 09:15:00]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:20:00]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 09:20:00]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:20:01]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:20:01]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:20:02]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:35:40]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 09:35:41]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 09:35:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:27:23]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:27:24]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:27:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:27:25]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:38:11]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:38:12]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:38:19]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:38:20]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:43:40]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:43:41]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:43:41]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:43:41]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:43:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:43:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:43:42]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:45:03]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:45:05]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:45:13]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:45:15]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:45:31]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:45:33]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:45:40]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:45:41]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:46:17]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:46:29]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:46:30]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:46:44]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:46:45]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:47:30]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:48:15]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:48:17]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:48:34]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:48:36]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:48:41]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:48:43]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:49:03]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 10:49:04]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:49:08]
+{"fromMe":false,"data":{"from":"6282393206979@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 10:49:10]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 10:49:25]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:12:45]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"Cek"},"type":"chat"}
+
+[2021-02-17 13:13:45]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"http:\/\/cocosmedia.m-pedia.my.id"},"type":"chat"}
+
+[2021-02-17 13:17:20]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-17 13:17:55]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 13:18:04]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:19:06]
+{"fromMe":true,"data":{"from":"6282393206979@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:21:42]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 13:21:44]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:22:33]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:22:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:27:30]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:28:14]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 13:28:18]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:35:29]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 13:35:43]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 13:47:09]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 14:08:11]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 14:40:32]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"STATUS.0082680"},"type":"chat"}
+
+[2021-02-17 14:40:40]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 18:05:02]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 18:05:49]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 18:06:51]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 18:06:59]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 18:07:44]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 18:16:12]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 18:16:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 18:16:43]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-17 18:16:55]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-17 20:15:35]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 20:15:56]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 20:17:10]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"cocosmediacell.com"},"type":"chat"}
+
+[2021-02-17 20:33:44]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"Cek"},"type":"chat"}
+
+[2021-02-17 20:34:26]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 20:50:23]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-17 20:50:38]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 20:55:20]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 21:14:09]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-17 21:17:23]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"STATUS.3221421"},"type":"chat"}
+
+[2021-02-17 21:17:25]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 05:35:31]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 05:35:33]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 06:04:54]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 06:05:04]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 06:08:26]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 06:08:27]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 07:04:36]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 07:04:44]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 08:05:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 08:05:50]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 08:05:51]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 08:05:52]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 08:05:53]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 09:00:48]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 09:01:00]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 09:03:05]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 09:03:11]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 09:33:06]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 09:33:18]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 09:48:04]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:15:10]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:27:58]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 10:28:10]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:30:26]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:31:06]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:32:23]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:33:05]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:33:10]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:33:47]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:35:40]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:37:29]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:39:19]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 10:41:33]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 10:41:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 11:06:37]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 11:06:51]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 11:28:47]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 11:28:55]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 11:29:22]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-18 11:58:28]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 12:01:48]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Hello kak"},"type":"chat"}
+
+[2021-02-18 12:02:12]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Ini nomor customer service"},"type":"chat"}
+
+[2021-02-18 12:02:12]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"\ud83d\udc4d"},"type":"chat"}
+
+[2021-02-18 12:03:10]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Ketik *INFO*"},"type":"chat"}
+
+[2021-02-18 12:03:10]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"siap"},"type":"chat"}
+
+[2021-02-18 12:03:10]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Utk lihat detail akun"},"type":"chat"}
+
+[2021-02-18 12:03:10]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"coba kak ketik"},"type":"chat"}
+
+[2021-02-18 12:03:21]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 12:03:22]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Akan ada blsan otomatis"},"type":"chat"}
+
+[2021-02-18 12:03:41]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 12:05:24]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Ketik *KEYWORD* utk pilihan transaksi"},"type":"chat"}
+
+[2021-02-18 12:06:55]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 12:11:03]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 12:11:06]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 13:45:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 13:55:24]
+null
+
+[2021-02-18 13:57:05]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 13:57:14]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 13:57:14]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 13:57:15]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 13:57:22]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 13:57:26]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 13:57:34]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 13:57:35]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:13:55]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 14:13:55]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 14:13:55]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:13:56]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:14:00]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 14:14:02]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:14:05]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 14:14:06]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:14:28]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"hallo"},"type":"chat"}
+
+[2021-02-18 14:14:32]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"hai"},"type":"chat"}
+
+[2021-02-18 14:14:33]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:14:36]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"gambar"},"type":"chat"}
+
+[2021-02-18 14:14:46]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 14:14:46]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 14:14:51]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 14:14:52]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-18 17:59:20]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 17:59:27]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:04:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-18 18:04:48]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Halo kak klo ini nomor whatsapp admin"},"type":"chat"}
+
+[2021-02-18 18:04:53]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"ada"},"type":"chat"}
+
+[2021-02-18 18:04:59]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Kk ketik"},"type":"chat"}
+
+[2021-02-18 18:05:09]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 18:05:13]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"keyword"},"type":"chat"}
+
+[2021-02-18 18:05:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Huruf besar semua"},"type":"chat"}
+
+[2021-02-18 18:05:29]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:05:41]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 18:05:44]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:05:56]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Itu pesan otomatisnya"},"type":"chat"}
+
+[2021-02-18 18:07:00]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Jadi mempermuda transaksi \n\nKetik\n\n\nPULSA.08539XXXX.10000"},"type":"chat"}
+
+[2021-02-18 18:07:01]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Contohnya"},"type":"chat"}
+
+[2021-02-18 18:07:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"STATUS.64343XXX."},"type":"chat"}
+
+[2021-02-18 18:07:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:08:02]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Id ordernya kak"},"type":"chat"}
+
+[2021-02-18 18:08:07]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Akan diketahui"},"type":"chat"}
+
+[2021-02-18 18:08:25]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"ia"},"type":"chat"}
+
+[2021-02-18 18:08:28]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Coba ketik \n\nINFO"},"type":"chat"}
+
+[2021-02-18 18:08:38]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 18:08:56]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:09:17]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:09:34]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"boleh di share juga"},"type":"chat"}
+
+[2021-02-18 18:10:20]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"besok k mu isi saldo disini coba 200 dulu"},"type":"chat"}
+
+[2021-02-18 18:10:20]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Nt wa ini akan otomatis kirim pesan di nomor hp (wa) yg dipakai mendaftar d awal"},"type":"chat"}
+
+[2021-02-18 18:10:34]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:11:06]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"klau mu promosi pa orang laeng kirim link boleh kang"},"type":"chat"}
+
+[2021-02-18 18:11:27]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Depe bukti pembayaran kirim di wa ini nanti robot wa akan otomatis baca dan nambah saldo"},"type":"chat"}
+
+[2021-02-18 18:11:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:11:47]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"iyo mantap\ud83d\ude03\ud83d\ude03"},"type":"chat"}
+
+[2021-02-18 18:13:45]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"tapi dorang musti daftar dulu"},"type":"chat"}
+
+[2021-02-18 18:14:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Iya kan robot whatsapp mau otomatis kirim pesan dan connect di nomor whatsapp yg terdaftar"},"type":"chat"}
+
+[2021-02-18 18:15:16]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Nt semuanya run by sistem"},"type":"chat"}
+
+[2021-02-18 18:15:49]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"mendaftar lewat web dulu kang"},"type":"chat"}
+
+[2021-02-18 18:15:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Iya kak"},"type":"chat"}
+
+[2021-02-18 18:16:20]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"ok"},"type":"chat"}
+
+[2021-02-18 18:22:54]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:23:02]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:23:10]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:30:10]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 18:30:54]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 18:30:56]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:31:13]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:32:18]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 18:32:29]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:46:53]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 18:59:54]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 19:00:30]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 19:34:51]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 19:36:13]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 19:36:50]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 19:36:51]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 19:36:53]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:00:18]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:00:19]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:00:27]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:00:31]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:01:38]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"\ud83d\ude03"},"type":"chat"}
+
+[2021-02-18 20:08:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:27:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 20:27:56]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:29:49]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 20:29:59]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:31:52]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 20:31:57]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:35:51]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:51:14]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 20:51:20]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:27:31]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-18 21:27:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:28:13]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"PULSA.082393206979.1000"},"type":"chat"}
+
+[2021-02-18 21:28:18]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:28:39]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"STATUS.4790377"},"type":"chat"}
+
+[2021-02-18 21:28:43]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:28:44]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:38:11]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"STATUS.4790377"},"type":"chat"}
+
+[2021-02-18 21:38:17]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:38:58]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"PULSA.085398432112.1000"},"type":"chat"}
+
+[2021-02-18 21:39:46]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:40:03]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 21:40:35]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 21:41:05]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 22:16:40]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 22:50:04]
+{"fromMe":false,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 22:50:12]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 22:50:45]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-18 23:02:37]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-18 23:34:43]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 23:34:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 23:34:53]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-18 23:54:33]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-18 23:54:36]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 05:26:50]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 05:26:58]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:27:32]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 06:27:55]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:42:19]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:42:23]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:42:24]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:42:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:42:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:46:13]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:48:31]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:52:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:26]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:27]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:28]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:29]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 06:56:30]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 07:14:52]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:43:54]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:43:57]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:43:58]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:44:02]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:53:01]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Disini kk"},"type":"chat"}
+
+[2021-02-19 08:53:08]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Upload"},"type":"chat"}
+
+[2021-02-19 08:53:41]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:54:45]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-19 08:55:04]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Yg transaksi tdi kirim sini kak"},"type":"chat"}
+
+[2021-02-19 08:55:09]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Spya dbca"},"type":"chat"}
+
+[2021-02-19 08:55:32]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:56:24]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Ok"},"type":"chat"}
+
+[2021-02-19 08:56:24]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"ini ade"},"type":"chat"}
+
+[2021-02-19 08:56:39]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 08:57:56]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Klik 3 garis kiri atas\n\nKlik app\n\nKlik deposit\n\nDi invoice klik sudah dibayar. Saldo akan bertambah otomatis"},"type":"chat"}
+
+[2021-02-19 09:01:06]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 09:01:28]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 09:07:55]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 09:07:56]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 09:21:46]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:10:32]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:53:59]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:54:00]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:55:11]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:55:12]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:55:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:55:26]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:55:30]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 10:58:41]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 11:03:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 11:03:37]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 11:03:43]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 11:03:58]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 11:04:10]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Sudah transfer maksudnya"},"type":"chat"}
+
+[2021-02-19 11:09:56]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 12:39:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 12:39:47]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 12:50:29]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 13:47:00]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"saya akan isi saldo lagi aplikasi anda terbuka nih"},"type":"chat"}
+
+[2021-02-19 13:47:56]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 13:48:17]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"saya mau isi saldo 250.000"},"type":"chat"}
+
+[2021-02-19 16:14:41]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:47]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"tadi slah tekan angkanya, selesaikan dulu yach saldoini baru di isi lagi atau gimana"},"type":"chat"}
+
+[2021-02-19 16:16:47]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:47]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"angkanya pas 122, kok nda keluar ini kan baru dicoba,klau udah selesai di kirim saldo baru"},"type":"chat"}
+
+[2021-02-19 16:16:47]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"\ud83d\udc4d"},"type":"chat"}
+
+[2021-02-19 16:16:49]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:50]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:58]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:58]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:58]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:16:59]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:17:03]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:17:03]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:17:07]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:18:27]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:18:39]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Tadi ada restart"},"type":"chat"}
+
+[2021-02-19 16:19:02]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"didi ini"},"type":"chat"}
+
+[2021-02-19 16:19:03]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"didi pe no ini dank"},"type":"chat"}
+
+[2021-02-19 16:19:38]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Kadang sistem yg jlnkan"},"type":"chat"}
+
+[2021-02-19 16:19:43]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Cs"},"type":"chat"}
+
+[2021-02-19 16:19:49]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"ok"},"type":"chat"}
+
+[2021-02-19 16:20:03]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"Klo ada waktu kita yg buka. Ini nomor sistem"},"type":"chat"}
+
+[2021-02-19 16:20:19]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"oh ok"},"type":"chat"}
+
+[2021-02-19 16:23:43]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:26:28]
+{"fromMe":false,"data":{"from":"6282290675386@c.us","body":"pin"},"type":"chat"}
+
+[2021-02-19 16:28:11]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":"Ketik *INFO* utk status transaksi"},"type":"chat"}
+
+[2021-02-19 16:28:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:28:45]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":"Ketik *KEYWORD* utk jenis transaksi"},"type":"chat"}
+
+[2021-02-19 16:29:17]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-19 16:29:30]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:29:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"STATUS.4848465"},"type":"chat"}
+
+[2021-02-19 16:29:57]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:30:07]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 16:30:12]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:48:02]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 16:48:07]
+{"fromMe":true,"data":{"from":"6285216439900@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:49:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-19 16:50:00]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:50:43]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:58:29]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-19 16:58:32]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:09:07]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:22]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:23]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:23]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:24]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:25]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 06:13:27]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 09:32:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 11:39:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 11:40:01]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 16:33:24]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 16:33:30]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:30:52]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:44:47]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:34]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:34]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:35]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:37]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:38]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:40]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:47]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:49]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:51]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:52]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:54]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:54]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 17:50:57]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:03:04]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Mohon screen shot invoice dan kirim disini pak"},"type":"chat"}
+
+[2021-02-20 18:03:27]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Dan juga bukti pembayaran supya sistem bisa cek"},"type":"chat"}
+
+[2021-02-20 18:06:04]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:07:53]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Nomor invoice nya pak.\n\nKlik 3 baris d sebelah kiri atas.... app....deposit. print screen disitu biar bisa dilihat nomor invoice utk di masukkan d sistem"},"type":"chat"}
+
+[2021-02-20 18:08:40]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Dikirim k kami nomor invoice"},"type":"chat"}
+
+[2021-02-20 18:08:46]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Ok"},"type":"chat"}
+
+[2021-02-20 18:10:06]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 18:10:13]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:10:19]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:11:03]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Ok. Klik sudah transfer. Saldo akan bertambah otomatis. Tkyou"},"type":"chat"}
+
+[2021-02-20 18:11:59]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Oke\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-20 18:12:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"\ud83d\ude42\ud83d\ude4f\ud83c\udffb"},"type":"chat"}
+
+[2021-02-20 18:13:42]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 18:14:02]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:22:01]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:22:01]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Msgbox error 80"},"type":"chat"}
+
+[2021-02-20 18:22:01]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Alert error 80"},"type":"chat"}
+
+[2021-02-20 18:22:59]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:24:48]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 18:24:50]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:24:55]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:25:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Sudah ya pak"},"type":"chat"}
+
+[2021-02-20 18:25:16]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Saldonya sudah 100.000"},"type":"chat"}
+
+[2021-02-20 18:25:56]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:25:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 18:31:04]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Oke Sudah masuk terima kasih\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-20 18:31:58]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Kalau ada error dan lain2. Atau pengembalian dana misalnya error transaksi gagal tapi saldo berkurang silahkan wa di nomor admin ini utk prosedur pengembalian dana"},"type":"chat"}
+
+[2021-02-20 18:32:01]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"\ud83d\ude4f\ud83c\udffb"},"type":"chat"}
+
+[2021-02-20 18:36:23]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Oke\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-20 18:37:22]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Untuk info akun coba bapak tuliskan *INFO*"},"type":"chat"}
+
+[2021-02-20 18:38:46]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Utk fitur transaksi lewat whatsapp bisa ketikan dulu *KEYWORD*\n\nAkan ada pesa wa otomatis"},"type":"chat"}
+
+[2021-02-20 19:01:13]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:01:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:01:25]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:19:16]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:22:45]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:23:46]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Umum"},"type":"chat"}
+
+[2021-02-20 19:24:01]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Pilih umum"},"type":"chat"}
+
+[2021-02-20 19:30:14]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Oke\ud83d\ude4f\ud83d\udc4d"},"type":"chat"}
+
+[2021-02-20 19:31:47]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:36:08]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:39:51]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 19:39:59]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:43:25]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Hello pak. Apakah masih ada kendala"},"type":"chat"}
+
+[2021-02-20 19:43:28]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"?"},"type":"chat"}
+
+[2021-02-20 19:52:46]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:53:47]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 19:54:02]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:56:12]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:56:54]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"SYATUS.4553704"},"type":"chat"}
+
+[2021-02-20 19:57:07]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"STATUS.4553704"},"type":"chat"}
+
+[2021-02-20 19:57:13]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 19:59:49]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:03:36]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:05:42]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Oh iya. Batalkan dulu request2 depositnya. Karena itu mungkin doble2 klik depo.\n\nKe 3 garis kiri -- klik app -- klik deposit -- pilih batalkan"},"type":"chat"}
+
+[2021-02-20 20:05:56]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Ulangi beberapa kli sampai request deposit semuanya dibatalkan"},"type":"chat"}
+
+[2021-02-20 20:06:15]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"\ud83d\ude42"},"type":"chat"}
+
+[2021-02-20 20:06:51]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Oke \ud83d\ude4f"},"type":"chat"}
+
+[2021-02-20 20:11:51]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 20:12:02]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:12:36]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:17:35]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:20:24]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Oh iya pak silahkan kirim disini bukti transfer nanti sistem akan baca utk cocokkan. Kalau sistem sudah approve. Nanti bpk tinggal klik sudah transfer akan bertambah sendiri otomatis saldonya"},"type":"chat"}
+
+[2021-02-20 20:22:06]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":"Kalo dari nilai transfer mestinya admin sdh bisa baca transferan diterima dari akun yg mana."},"type":"chat"}
+
+[2021-02-20 20:24:00]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:24:43]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Silakan klik sudah transfer"},"type":"chat"}
+
+[2021-02-20 20:26:41]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:27:16]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 20:27:26]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:30:11]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:35:23]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:38:36]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Oh iya terimakasih masukannya. Nanti saya akan atur kodingnya dulu"},"type":"chat"}
+
+[2021-02-20 20:50:25]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 20:50:26]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 22:43:46]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 22:44:07]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-20 22:59:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-20 22:59:17]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 04:56:37]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 05:40:29]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 06:21:26]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 06:24:17]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 06:28:01]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 06:43:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 07:22:02]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"STATUS.3404417"},"type":"chat"}
+
+[2021-02-21 07:22:11]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:45]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:45]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:45]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:45]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:45]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:47]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:47]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:49]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:50]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:56]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:20:59]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:27:32]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:27:34]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:28:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 08:28:55]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 08:35:15]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:06:48]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:11:18]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:11:19]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:11:20]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:11:21]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:11:23]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:24:21]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:37:00]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:37:15]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":"Ini adalah wa bot admin"},"type":"chat"}
+
+[2021-02-21 09:37:35]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":"Silahkan ketik *INFO* Untuk info akun"},"type":"chat"}
+
+[2021-02-21 09:38:02]
+{"fromMe":false,"data":{"from":"628990339329@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 09:38:20]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":""},"type":"chat"}
+
+[2021-02-21 09:38:53]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":"Silahkan ketik *KEYWORD* Untuk fitur transaksi"},"type":"chat"}
+
+[2021-02-21 09:42:08]
+{"fromMe":true,"data":{"from":"628990339329@c.us","body":""},"type":"chat"}
+
+[2021-02-21 11:42:20]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 11:42:22]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 11:42:50]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Transaksi pulsa 75k sudah di refund dananya ke saldo"},"type":"chat"}
+
+[2021-02-21 11:42:58]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Kami tambahkan lagi"},"type":"chat"}
+
+[2021-02-21 11:43:12]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Bisa di transaksi lagi saldonya"},"type":"chat"}
+
+[2021-02-21 11:43:55]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 11:44:00]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 11:56:55]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"PULSA.082393206979.1000"},"type":"chat"}
+
+[2021-02-21 11:56:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 11:57:28]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:03:17]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:06]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:06]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:07]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:08]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:11]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:16]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:16]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:35]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:36]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:37]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:26:48]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:59:37]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 12:59:51]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 12:59:53]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-21 13:57:55]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"PULSA.085398432112.1000"},"type":"chat"}
+
+[2021-02-21 13:57:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 13:58:24]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 14:40:45]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 14:40:46]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 14:44:15]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 14:44:17]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 14:46:05]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 14:47:23]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 17:21:43]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 17:21:46]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 17:40:34]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-21 18:09:43]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 20:10:09]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 20:10:11]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-21 22:22:13]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-21 22:22:15]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 05:29:16]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 05:31:08]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 05:46:12]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 05:55:06]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 05:55:52]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:03:50]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 06:03:52]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:04:11]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 06:04:12]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:37:40]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:37:40]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:39:50]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:39:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:39:54]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 06:39:55]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 07:45:22]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 07:45:23]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 08:24:29]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 08:58:44]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:06:04]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:06:05]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:07:30]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:08:12]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 09:08:14]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:08:35]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Selamat pagi ibu. Ini adalah layanan whatsapp admin sekaligus robot whatsapp"},"type":"chat"}
+
+[2021-02-22 09:09:00]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Gunakan perintah\n\n*INFO*\n\natau\n\n*KEYWORD*"},"type":"chat"}
+
+[2021-02-22 09:09:10]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Silahkan ketik salah satunya"},"type":"chat"}
+
+[2021-02-22 09:09:25]
+{"fromMe":false,"data":{"from":"628114307106@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 09:09:26]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:09:37]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Itu adalah informasi akun ibu"},"type":"chat"}
+
+[2021-02-22 09:09:50]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Silahkan coba satunya lagi"},"type":"chat"}
+
+[2021-02-22 09:09:51]
+{"fromMe":false,"data":{"from":"628114307106@c.us","body":"ok"},"type":"chat"}
+
+[2021-02-22 09:10:24]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:26]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:26]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:28]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:30]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:30]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:10:31]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:30:12]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:30:13]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:30:14]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:32:38]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Silahkan kirim disini tangkapan layar invoice dan tangkapan layar bukti transfer"},"type":"chat"}
+
+[2021-02-22 09:35:26]
+{"fromMe":false,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:36:23]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Baik bu"},"type":"chat"}
+
+[2021-02-22 09:36:33]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Mohon tangkapan layar invoice nya"},"type":"chat"}
+
+[2021-02-22 09:37:08]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Klik 3 baris sebelah kiri atas -- klik app --- klik --- deposit"},"type":"chat"}
+
+[2021-02-22 09:37:09]
+{"fromMe":false,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:37:29]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:38:17]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Silahkan klik sudah transfer"},"type":"chat"}
+
+[2021-02-22 09:38:58]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:39:19]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 09:39:21]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:39:29]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:39:30]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 09:40:19]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"Apakah ada kendala error bu?"},"type":"chat"}
+
+[2021-02-22 10:16:30]
+{"fromMe":false,"data":{"from":"628114307106@c.us","body":"wait"},"type":"chat"}
+
+[2021-02-22 10:45:01]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 11:32:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 11:35:17]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 11:35:19]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 11:36:00]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-22 12:09:40]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 12:48:02]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 12:48:04]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:05:04]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:07:17]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:08:59]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:09:47]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 15:09:49]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:19:50]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 15:19:53]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 15:52:30]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 16:53:12]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 17:34:25]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Saldo itu di refund"},"type":"chat"}
+
+[2021-02-22 17:34:43]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Ada masalah transaksinya"},"type":"chat"}
+
+[2021-02-22 17:35:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"Jika ada kendala bisa kami bantu pak"},"type":"chat"}
+
+[2021-02-22 17:35:28]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 17:36:19]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 17:41:08]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 17:52:47]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 17:52:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 18:05:39]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 18:07:00]
+{"fromMe":false,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 18:08:08]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 18:16:35]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-22 18:27:25]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-22 18:30:02]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-22 18:30:15]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"Aaaaa"},"type":"chat"}
+
+[2021-02-22 18:30:49]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-22 18:32:41]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"...."},"type":"chat"}
+
+[2021-02-22 18:32:43]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"Test"},"type":"chat"}
+
+[2021-02-22 18:32:53]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"Cek"},"type":"chat"}
+
+[2021-02-22 19:27:55]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 19:27:56]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 19:30:24]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 19:43:22]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:15:38]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:19:39]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"Terima kasih telah menghubungi Perdagangan Umum. Silakan beri tahu apa yang dapat kami bantu."},"type":"chat"}
+
+[2021-02-22 20:19:54]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Ini adalah whatsapp otomatis admin.\n\nSilahkan ketik *INFO*\n\nAtau ketik *KEYWORD*"},"type":"chat"}
+
+[2021-02-22 20:20:22]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"serasa daftar di hpsatuleh"},"type":"chat"}
+
+[2021-02-22 20:20:37]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"\ud83d\ude42\ud83d\ude42\ud83d\ude42"},"type":"chat"}
+
+[2021-02-22 20:20:38]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"wadi no ini"},"type":"chat"}
+
+[2021-02-22 20:24:06]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:25:27]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Whatsapp ini terhubung dengan nomor yang terdaftar"},"type":"chat"}
+
+[2021-02-22 20:25:31]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"\ud83d\ude4f\ud83c\udffb"},"type":"chat"}
+
+[2021-02-22 20:34:37]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 20:34:39]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:34:54]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-22 20:34:55]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:35:08]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"Beso mu bajual dari apl ini"},"type":"chat"}
+
+[2021-02-22 20:35:13]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"Pulsa"},"type":"chat"}
+
+[2021-02-22 20:35:22]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Ok kak sudah bisa"},"type":"chat"}
+
+[2021-02-22 20:35:29]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-22 20:35:32]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-22 20:35:35]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"\ud83d\ude4f"},"type":"chat"}
+
+[2021-02-22 20:35:56]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"\ud83d\ude4f\ud83c\udffb"},"type":"chat"}
+
+[2021-02-22 20:46:36]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-22 21:12:45]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-22 21:17:55]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 01:38:15]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-23 01:38:15]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-23 01:39:15]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-23 05:38:52]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 05:38:54]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 05:39:44]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 06:23:51]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 06:23:53]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 06:24:39]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 06:41:34]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 06:41:36]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 10:27:40]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 10:27:42]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 10:38:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 10:39:10]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 11:11:06]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 11:11:08]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 11:12:08]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-23 11:12:10]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-23 11:12:47]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 11:47:13]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:01:46]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:07:46]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:09:37]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:09:39]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:09:41]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:10:04]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"Ok"},"type":"chat"}
+
+[2021-02-23 12:14:30]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Kak screen invoice disini dgn transferan mau dicocokkan di sistem"},"type":"chat"}
+
+[2021-02-23 12:15:04]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:15:34]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:16:39]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Klik sudah transfer kak"},"type":"chat"}
+
+[2021-02-23 12:19:45]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":"Dimana cek ini"},"type":"chat"}
+
+[2021-02-23 12:21:24]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:21:27]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Tindis"},"type":"chat"}
+
+[2021-02-23 12:21:31]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Sudah transfer"},"type":"chat"}
+
+[2021-02-23 12:21:39]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 12:21:41]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:22:25]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Klik tiga baris sebelah kiri atas...\n\nKlik app\nKlik deposit\nKlik warna hijau sudah transfer"},"type":"chat"}
+
+[2021-02-23 12:25:49]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:26:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:29:18]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 12:29:21]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:32:25]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 12:32:27]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:32:41]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Skli lgi klik sudah transfer"},"type":"chat"}
+
+[2021-02-23 12:36:00]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:37:04]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 12:37:06]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:40:07]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:40:52]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:43:02]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 12:51:42]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:13:27]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:14:09]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 13:14:11]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:14:21]
+{"fromMe":false,"data":{"from":"6285340344873@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-23 13:14:23]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:37:41]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-23 13:37:43]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:44:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:47:35]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:47:35]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:47:35]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-23 13:48:50]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 15:45:34]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 15:53:33]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:35]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:38]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:40]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:40]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:41]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:41]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:41]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:42]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:43]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:43]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:44]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:45]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:45]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:45]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:46]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:47]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:47]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:48]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:48]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:48]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:49]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:50]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:50]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:52]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:52]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:52]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:53]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:53]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:54]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:54]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:55]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 17:04:55]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 18:45:26]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-23 18:46:14]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-23 18:47:21]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-23 18:54:30]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 19:43:44]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 19:56:04]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 20:33:33]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 20:33:34]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 20:33:36]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 20:59:44]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 21:01:15]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-23 21:17:43]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-23 21:19:21]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 21:26:59]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-23 21:28:43]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-23 22:06:52]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-02-24 04:16:55]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 04:16:55]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 05:01:50]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-24 05:01:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-24 05:01:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-24 05:01:51]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-24 06:42:14]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 06:59:19]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 06:59:20]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 07:00:10]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 07:00:17]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 07:00:24]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 07:06:29]
+{"fromMe":true,"data":{"from":"6285340344873@c.us","body":""},"type":"chat"}
+
+[2021-02-24 08:22:59]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"status.9964530"},"type":"chat"}
+
+[2021-02-24 08:23:23]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":"STATUS.9964530"},"type":"chat"}
+
+[2021-02-24 08:23:25]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 08:25:08]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 09:36:25]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:12:53]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:12:53]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:12:54]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:12:55]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:32:58]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 11:42:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:09:43]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:13:25]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:13:28]
+{"fromMe":true,"data":{"from":"6282293887712@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:42:09]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:52:14]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:52:14]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:52:16]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:52:17]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:59:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 12:59:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:04:22]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:04:22]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:04:22]
+{"fromMe":true,"data":{"from":"628114307106@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:01]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:10]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:12]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:13]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:13]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:14]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:15]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:15]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:16]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:16]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:17]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:17]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:18]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:18]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:18]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:19]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:20]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:25:21]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:27:44]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:28:13]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:28:54]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:35:23]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:37:03]
+{"fromMe":false,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 14:37:34]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Oh iya. Bentar di cek kak"},"type":"chat"}
+
+[2021-02-24 14:46:14]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Saldo sudah di refund. Gagal transaksi, silahkan dicek kembali nomornya"},"type":"chat"}
+
+[2021-02-24 14:48:07]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"STATUS.0088340"},"type":"chat"}
+
+[2021-02-24 14:48:09]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:31]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:37:32]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 17:42:51]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 18:34:19]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 18:34:19]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 18:34:19]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 18:34:20]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-24 18:38:31]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 19:17:32]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 19:17:33]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 19:17:33]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:24:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:26:34]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:26:34]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:29:20]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:49:26]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 20:49:31]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 21:27:21]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 21:36:36]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"9463045"},"type":"chat"}
+
+[2021-02-24 22:04:48]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-24 22:05:41]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 22:06:09]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 22:06:40]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 22:12:15]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-24 22:12:17]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-24 22:14:04]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 04:13:25]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:43:33]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:44:47]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:44:48]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:46:14]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 05:46:16]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:47:43]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:48:57]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:48:58]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:50:19]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 05:50:21]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:50:54]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:52:01]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-25 05:57:28]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 06:52:38]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:29]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:29]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:30]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:30]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:31]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:31]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:32]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:32]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 07:34:33]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 08:08:03]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 08:08:03]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 08:08:03]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 08:08:03]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 08:21:02]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 09:55:19]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:40:23]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:43:21]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:45:11]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 11:45:13]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:45:49]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"KEYWORD"},"type":"chat"}
+
+[2021-02-25 11:45:51]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:46:01]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"PULSA.082298859671.1000"},"type":"chat"}
+
+[2021-02-25 11:46:02]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:46:42]
+{"fromMe":false,"data":{"from":"6282298859671@c.us","body":"PULSA.082298859671.1000"},"type":"chat"}
+
+[2021-02-25 11:46:45]
+{"fromMe":true,"data":{"from":"6282298859671@c.us","body":""},"type":"chat"}
+
+[2021-02-25 11:56:01]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 12:37:43]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 12:37:45]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 12:38:50]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"STATUS.1953362"},"type":"chat"}
+
+[2021-02-25 12:38:51]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 12:41:15]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 12:41:17]
+{"fromMe":true,"data":{"from":"6282290675386@c.us","body":""},"type":"chat"}
+
+[2021-02-25 15:05:54]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 15:05:56]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-25 17:20:59]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 17:21:01]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-25 20:39:24]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 20:39:26]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-25 20:52:01]
+{"fromMe":false,"data":{"from":"6285398432112@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-25 20:52:04]
+{"fromMe":true,"data":{"from":"6285398432112@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:38]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:38]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:38]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:38]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:39]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:40]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 06:41:40]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 07:41:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 07:41:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 07:41:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 07:41:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 07:41:37]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 08:51:38]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 08:53:23]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:39:22]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:40:46]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:40:50]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:40:53]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:41:33]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:41:35]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:41:43]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:41:44]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:41:48]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:42:26]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:42:27]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 10:42:46]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 12:22:17]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-02-26 12:22:25]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-26 12:22:27]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-02-26 15:15:40]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-26 15:15:42]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":""},"type":"chat"}
+
+[2021-02-26 15:16:34]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Hello kak. Apakah transaksinya lancar? Jika ada kendala mohon segera infokan"},"type":"chat"}
+
+[2021-02-26 15:16:37]
+{"fromMe":true,"data":{"from":"6285394479468@c.us","body":"Terimakasih"},"type":"chat"}
+
+[2021-02-26 16:13:13]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"Cek"},"type":"chat"}
+
+[2021-02-26 16:13:15]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":"INFO"},"type":"chat"}
+
+[2021-02-26 16:13:17]
+{"fromMe":true,"data":{"from":"628114320606@c.us","body":""},"type":"chat"}
+
+[2021-05-06 12:51:13]
+null
+
+[2021-05-06 12:52:21]
+{"from":"6282298859671@c.us","message":"Info"}
+
+[2021-05-06 12:52:43]
+{"from":"6282298859671@c.us","message":"Info"}
+
+[2021-05-06 12:53:47]
+{"from":"6282298859671@c.us","message":"Info"}
+
+[2021-05-06 13:08:20]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-06 13:08:41]
+{"from":"6282217417267@c.us","message":"tt"}
+
+[2021-05-06 13:54:38]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-06 13:57:33]
+{"from":"6289522811620@c.us","message":"Info"}
+
+[2021-05-06 13:58:04]
+{"from":"6282298859671@c.us","message":"Info"}
+
+[2021-05-06 13:58:13]
+{"from":"6282298859671@c.us","message":"Keyword"}
+
+[2021-05-06 13:58:20]
+{"from":"6282298859671@c.us","message":"KEYWORD"}
+
+[2021-05-06 13:59:30]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-06 13:59:36]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-06 14:00:57]
+{"from":"6282217417267@c.us","message":"INFO"}
+
+[2021-05-06 14:06:48]
+{"from":"6282217417267@c.us","message":"Keyword"}
+
+[2021-05-06 14:06:55]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-06 14:08:09]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-06 14:08:18]
+{"from":"6282217417267@c.us","message":"hai"}
+
+[2021-05-06 14:43:52]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-06 14:44:10]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-06 14:44:23]
+{"from":"6282217417267@c.us","message":"TEST"}
+
+[2021-05-06 14:44:23]
+{"from":"6282217417267@c.us","message":"Test"}
+
+[2021-05-06 15:13:31]
+{"from":"@c.us","message":"https:\/\/solusimedia.com"}
+
+[2021-05-06 17:15:11]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-06 17:15:25]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-06 17:15:28]
+{"from":"6282217417267@c.us","message":"Keyword"}
+
+[2021-05-06 17:15:32]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-06 17:15:47]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-06 17:16:42]
+{"from":"6282217417267@c.us","message":"PESAN.T5.082217417267"}
+
+[2021-05-06 17:17:07]
+{"from":"6282217417267@c.us","message":"STATUS.9718018"}
+
+[2021-05-06 17:17:47]
+{"from":"6282217417267@c.us","message":"STATUS.9718018"}
+
+[2021-05-06 17:20:35]
+{"from":"6282217417267@c.us","message":"STATUS.9718018"}
+
+[2021-05-07 22:11:19]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-08 04:45:21]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-08 04:45:33]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-08 04:45:50]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-08 04:46:43]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-08 19:41:59]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-08 19:42:13]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-08 19:42:57]
+{"from":"6282217417267@c.us","message":"Test"}
+
+[2021-05-08 19:43:07]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-08 19:43:21]
+{"from":"6282217417267@c.us","message":"Test"}
+
+[2021-05-08 19:49:03]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-08 19:49:20]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-08 19:49:28]
+{"from":"6287721800472@c.us","message":"KEYWORD"}
+
+[2021-05-08 19:50:04]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 07:02:41]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 07:03:07]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-09 07:04:34]
+{"from":"6282217417267@c.us","message":"STATUS.9718018"}
+
+[2021-05-09 07:09:41]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 07:12:47]
+{"from":"6287721800472@c.us","message":"test"}
+
+[2021-05-09 09:04:17]
+{"from":"6287721800472@c.us","message":"daftar"}
+
+[2021-05-09 09:04:42]
+{"from":"6287721800472@c.us","message":"*daftar*"}
+
+[2021-05-09 09:05:07]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 09:06:56]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 09:08:00]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 09:08:35]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 09:08:55]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 09:12:57]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-09 09:14:03]
+{"from":"6282217417267@c.us","message":"KEYWORD"}
+
+[2021-05-09 09:19:31]
+{"from":"628996933330@c.us","message":"emmm"}
+
+[2021-05-09 09:20:44]
+{"from":"628996933330@c.us","message":"info"}
+
+[2021-05-09 09:22:10]
+{"from":"628996933330@c.us","message":"keren by\ud83e\udd7a"}
+
+[2021-05-09 09:24:09]
+{"from":"628996933330@c.us","message":"itu emang otomatis online trs gtu yh by"}
+
+[2021-05-09 09:38:46]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 09:40:03]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 09:59:50]
+{"from":"6282217417267@c.us","message":"test"}
+
+[2021-05-09 10:04:15]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 10:06:15]
+{"from":"6282217417267@c.us","message":"INFO"}
+
+[2021-05-09 10:10:10]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 10:10:46]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 10:11:29]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 10:11:49]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 10:12:43]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 10:12:55]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 10:16:58]
+{"from":"6282217417267@c.us","message":"pesan.1779.wahyuadisuryanto_"}
+
+[2021-05-09 10:17:25]
+{"from":"6282217417267@c.us","message":"PESAN.1779.wahyuadisuryanto_"}
+
+[2021-05-09 10:18:08]
+{"from":"6282217417267@c.us","message":"PESAN.T5.082217417267"}
+
+[2021-05-09 11:24:49]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:25:14]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-09 11:25:21]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:27:16]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:28:20]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:28:43]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:29:28]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:30:17]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-09 11:31:01]
+{"from":"6287721800472@c.us","message":"info"}
+
+[2021-05-09 11:33:51]
+{"from":"6287721800472@c.us","message":"keyword"}
+
+[2021-05-09 11:34:20]
+{"from":"6287721800472@c.us","message":"PULSA.082217417267.5"}
+
+[2021-05-09 11:37:10]
+{"from":"6287721800472@c.us","message":"PULSA.082217417267.5"}
+
+[2021-05-10 15:15:12]
+{"from":"6282217417267@c.us","message":"deposit"}
+
+[2021-05-10 18:11:28]
+{"from":"6282217417267@c.us","message":"info"}
+
+[2021-05-10 18:11:45]
+{"from":"6282217417267@c.us","message":"keyword"}
+
+[2021-05-10 18:12:13]
+{"from":"6282217417267@c.us","message":"PULSA.082217417267.5"}
+
+[2021-05-10 20:42:35]
+{"from":"6282217417267@c.us","message":"hallo"}
+
+[2021-05-10 20:43:41]
+{"from":"6282217417267@c.us","message":"halo"}
+
+[2021-05-10 20:44:22]
+{"from":"6282217417267@c.us","message":"*SELAMAT DATANG DI SOLUSI MEDIA*\n\n*JIKA ADA KELUHAN SILAHKAN SAMPAIKAN KELUHAN ANDA*\n\n*UNTUK MENGETAHUI INFO AKUN ANDA SILAHKAN KETIK \"INFO\"*\n\n*UNTUK MENGETAHUI KEYWORD APA SAJA YANG TERSEDIA SILAHKAN KETIK \"KEYWORD\"*"}
+
+[2021-05-10 20:46:59]
+{"from":"6287721800472@c.us","message":"fh"}
+
+[2021-05-11 07:28:03]
+{"from":"6282217417267@c.us","message":"hh"}
+
+[2021-05-11 07:28:08]
+{"from":"6282217417267@c.us","message":"uu"}
+
+[2021-05-11 13:38:50]
+{"from":"6282217417267@c.us","message":"bdjs"}
+
+[2021-05-11 13:57:37]
+{"from":"6282217417267@c.us","message":"Test"}
+
+[2021-05-11 14:07:59]
+{"from":"6282217417267@c.us","message":"yhyyj"}
+
+[2021-05-11 14:15:22]
+{"from":"6282217417267@c.us","message":"hdjdi"}
+
+[2021-05-11 18:42:02]
+{"from":"62859106529267@c.us","message":"*Akun anda telah login di Solusi Media dengan IP => 118.136.165.221*\n*Jika bukan anda, Silahkan amankan akun anda di pengaturan akun Solusi Media.*"}
+
+[2021-05-11 19:47:48]
+{"from":"@c.us","message":"https:\/\/solusimedia.com\/"}
+
+[2021-05-11 19:48:59]
+{"from":"@c.us","message":"https:\/\/solusimedia.com\/"}
+
+[2021-05-12 14:53:42]
+{"from":"@c.us","message":"Jaringan ku bgs ko,buka yt lancar"}
+
+[2021-05-12 18:39:01]
+{"from":"628996933330@c.us","message":"PULSA.083195757630.5000"}
+
+[2021-05-12 19:52:44]
+{"from":"62859106529267@c.us","message":"*Akun anda telah login di Solusi Media dengan IP => 140.213.33.76*\n*Jika bukan anda, Silahkan amankan akun anda di pengaturan akun Solusi Media.*"}
+
+[2021-05-12 21:12:14]
+{"from":"62859106529267@c.us","message":"*Akun anda telah login di Solusi Media dengan IP => 140.213.33.76*\n*Jika bukan anda, Silahkan amankan akun anda di pengaturan akun Solusi Media.*"}
+
+[2021-05-12 22:40:22]
+{"from":"@c.us","message":"Doain ya kawan supaya aku ngepet ga ketangkap \ud83d\ude4f\ud83c\udffb"}
+
+[2021-05-12 22:40:22]
+{"from":"@c.us","message":"Info vilog\/id open malam,fast mo nuker scar"}
+
+[2021-05-12 23:21:19]
+{"from":"6282382000703@c.us","message":"Iya"}
+
+[2021-05-12 23:21:23]
+{"from":"6282382000703@c.us","message":"Boleh liat webnya"}
+
+[2021-05-12 23:24:12]
+{"from":"6282382000703@c.us","message":"Wait saya cek"}
+
+[2021-05-12 23:24:18]
+{"from":"6282382000703@c.us","message":"User login apa untuk testing pesennya"}
+
+[2021-05-12 23:29:07]
+{"from":"6282382000703@c.us","message":"Ini midtransnya pas mau deposit ya?"}
+
+[2021-05-12 23:29:52]
+{"from":"6282382000703@c.us","message":"Oke, kalo 350k gimana?"}
+
+[2021-05-12 23:30:21]
+{"from":"6282382000703@c.us","message":"Oke, mau dikerjakan kapan?"}
+
+[2021-05-12 23:30:40]
+{"from":"6282382000703@c.us","message":"Bayar setelah selesai"}
+
+[2021-05-12 23:31:09]
+{"from":"6282382000703@c.us","message":"Mitrandsnya"}
+
+[2021-05-12 23:32:52]
+{"from":"6282382000703@c.us","message":"Admin pertransaksi mau di bebanin user atau potong dari saldo pembayaran?"}
+
+[2021-05-12 23:33:53]
+{"from":"6282382000703@c.us","message":"Oke siap"}
+
+[2021-05-12 23:34:49]
+{"from":"6282382000703@c.us","message":"Oke nnti kalo udah selesai saya kabari"}
+
+[2021-05-12 23:41:04]
+{"from":"@c.us","message":"Kalau sy g on berarti sy hbis ngerip kak\ud83d\ude18"}
+
+[2021-05-13 01:15:13]
+{"from":"6285774979827@c.us","message":"250 gan"}
+
+[2021-05-13 15:53:26]
+{"from":"@c.us","message":"Ingpo opmem, sung cn y"}
+
+[2021-05-13 15:53:26]
+{"from":"@c.us","message":"Kd lt 2"}
+
+[2021-05-13 17:20:34]
+{"from":"6282217417267@c.us","message":"Test"}
+
+[2021-05-13 18:19:22]
+{"from":"6285774979827@c.us","message":"Gimana gan"}
+
+[2021-05-13 22:15:50]
+{"from":"628996933330@c.us","message":"INDOSAT.085864773644.15000"}
+
+[2021-05-13 22:16:09]
+{"from":"628996933330@c.us","message":"bloon"}
+
+[2021-05-13 22:16:16]
+{"from":"628996933330@c.us","message":"astaghfirullah aku bloon banget"}
+
+[2021-05-13 22:16:21]
+{"from":"628996933330@c.us","message":"oke min"}
+
+[2021-05-13 22:16:41]
+{"from":"628996933330@c.us","message":"PULSA.085864773644.15000"}
+
+[2021-05-13 22:16:56]
+{"from":"628996933330@c.us","message":"PULSA.085864773644.10000"}
+
+[2021-05-13 22:18:29]
+{"from":"628996933330@c.us","message":"iya pinter ya min SM"}
+
+[2021-05-13 22:18:39]
+{"from":"628996933330@c.us","message":"PULSA.085864773644.5000"}
+
+[2021-05-13 22:19:46]
+{"from":"628996933330@c.us","message":"gaboleh ya kalo ke member lain chat gtu"}
+
+[2021-05-13 22:19:53]
+{"from":"628996933330@c.us","message":"aku marah pokonya"}
+
+[2021-05-13 22:19:56]
+{"from":"628996933330@c.us","message":"ngambek lama"}
+
+[2021-05-13 22:20:01]
+{"from":"628996933330@c.us","message":"titik"}
+
+[2021-05-13 22:20:17]
+{"from":"628996933330@c.us","message":"apalagi kalo nanti member nya genit. omg noooo"}
+
+[2021-05-13 22:21:10]
+{"from":"628996933330@c.us","message":"ttep hrs jgn genit ya"}
+
+[2021-05-14 17:21:38]
+{"from":"628996933330@c.us","message":"gemes"}
+
+[2021-05-14 17:27:04]
+{"from":"628996933330@c.us","message":"langsung"}
+
+[2021-05-14 20:31:55]
+{"from":"628996933330@c.us","message":"PULSA.082125158386.20000"}
+
+[2021-05-15 06:56:14]
+{"from":"628996933330@c.us","message":"aby yang login?"}
+
+[2021-05-15 06:56:37]
+{"from":"@c.us","message":"https:\/\/solusimedia.com\/"}
+
+[2021-05-15 06:57:23]
+{"from":"628996933330@c.us","message":"ini login by"}
+
+[2021-05-15 07:00:23]
+{"from":"628996933330@c.us","message":"mmm gitu"}
+
+[2021-05-15 16:08:04]
+{"from":"628996933330@c.us","message":"by SM teh error?"}
+
+[2021-05-15 16:08:16]
+{"from":"628996933330@c.us","message":"aku dr smlm topup ga k knfr2"}
+
+[2021-05-15 18:09:53]
+{"from":"628996933330@c.us","message":"ya by"}
+
+[2021-05-16 08:26:34]
+{"from":"628996933330@c.us","message":"PULSA.08996933330.5000"}
+
+[2021-05-16 08:26:54]
+{"from":"628996933330@c.us","message":"PULSA.089626069686.5000"}
+
+[2021-05-16 19:46:11]
+{"from":"628996933330@c.us","message":"PULSA.083159773706.10000"}
+
+[2021-05-17 08:06:21]
+{"from":"447710173736@c.us","message":"72987 adalah kode konfirmasi Facebook Anda"}
+
